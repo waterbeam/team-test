@@ -1,2 +1,7 @@
+header>h2{text-align: center; font-weight: bold; color: lightskyblue;}
+
 #site{list-style: none; padding: 10px 10px; margin: 0 auto;}
-a {text-decoration: none; font-size: 20px;}
+a {text-decoration: none; font-size: 20px; color: crimson;}
+a:hover{color: coral;}
+
+footer>p{text-align: center; color: lightcoral;}
